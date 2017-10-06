@@ -30,3 +30,6 @@
 *.exe
 *.out
 *.app
+/.vs/BullCowConsoleApp/v15
+/BullCowConsoleApp/x64/Debug
+/x64/Debug
